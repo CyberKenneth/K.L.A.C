@@ -1,7 +1,9 @@
-PyQt6            # For the GUI
-html2text        # To convert HTML to text
-html2epub        # EPUB conversion (custom or lightweight library)
-html2mobi        # MOBI conversion (if available as a lightweight lib)
-lxml             # For XML and HTML parsing
-requests         # For handling HTTP requests (e.g., for bug reporting)
-
+pymupdf          # PDF reading and text extraction
+lxml             # HTML/XML processing
+beautifulsoup4   # For easier HTML post-processing
+ebooklib         # EPUB generation
+html2text        # Convert HTML to text for preview
+PyQt6            # GUI framework
+requests         # Handling HTTP requests
+cssutils         # CSS validation and manipulation
+pypdf2           # Additional PDF processing
