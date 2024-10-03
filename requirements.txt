@@ -1,2 +1,7 @@
-script test
+PyQt6            # For the GUI
+html2text        # To convert HTML to text
+html2epub        # EPUB conversion (custom or lightweight library)
+html2mobi        # MOBI conversion (if available as a lightweight lib)
+lxml             # For XML and HTML parsing
+requests         # For handling HTTP requests (e.g., for bug reporting)
 
