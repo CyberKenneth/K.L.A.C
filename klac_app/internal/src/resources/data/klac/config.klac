@@ -1,0 +1,6 @@
+{
+    "model_path": "data\\klac\\Models",
+    "training_data_path": "data\\klac\\training_data",
+    "max_model_size_mb": 300,
+    "assistant_enabled": true
+}
