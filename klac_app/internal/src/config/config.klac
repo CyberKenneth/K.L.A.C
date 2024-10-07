@@ -1,0 +1,22 @@
+{
+    "file_struct": {
+        "preferences_path": "K.L.A.C/klac_app/UserData/preferences.klac",
+        "ai_directory": "K.L.A.C/klac_app/internal/src/assistant",
+        "models_directory": "K.L.A.C/klac_app/internal/src/assistant/assistant models",
+        "data_directory": "K.L.A.C/klac_app/data/klac",
+        "training_data_path": "K.L.A.C/klac_app/data/klac/training_data"
+    },
+    "requirements": {
+        "max_model_size_mb": 300,
+        "assistant_enabled": true
+    },
+    "req_path": {
+        "version": "1.0",
+        "libraries": [
+            "html2epub",
+            "html2mobi"
+        ],
+        "logs_path": "data/logs",
+        "bugs_path": "data/bugs"
+    }
+}
