@@ -1,0 +1,8 @@
+2024-10-03 16:15:18,993 [INFO] Logging setup complete.
+2024-10-03 16:15:18,993 [INFO] Starting setup...
+2024-10-03 16:15:18,999 [INFO] Config loaded: {'version': '1.0', 'libraries': ['html2epub', 'html2mobi'], 'logs_path': 'data/logs', 'bugs_path': 'data/bugs'}
+2024-10-03 16:15:18,999 [INFO] Setup complete.
+2024-10-03 16:15:28,442 [INFO] Logging setup complete.
+2024-10-03 16:15:28,443 [INFO] Starting setup...
+2024-10-03 16:15:28,443 [INFO] Config loaded: {'version': '1.0', 'libraries': ['html2epub', 'html2mobi'], 'logs_path': 'data/logs', 'bugs_path': 'data/bugs'}
+2024-10-03 16:15:28,443 [INFO] Setup complete.
